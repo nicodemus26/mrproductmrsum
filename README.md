@@ -1,5 +1,4 @@
-== Execution Transcript ==
-
+```
     There are two unknown whole numbers, m and n, both greater than 1,
     and less than 100. One mathematician, Mr. Product is given the product
     of these two numbers, while another mathematician,
@@ -72,4 +71,4 @@ Knowing the sum, Mr. Sum has exactly one candidate.
 
 Unambiguous candidate pairs:
 4 * 13 = 52, 4 + 13 = 17
-
+```
